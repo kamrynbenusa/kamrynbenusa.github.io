@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: https://kamrynbenusa.github.io/about_me
+permalink: /about_me/
 ---
 
 ![pic of me in chicago](https://github.com/user-attachments/assets/8e05ef4f-b5a8-4716-aa40-93b1bbcf1986)
